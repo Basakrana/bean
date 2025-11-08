@@ -1,5 +1,5 @@
 
-# Bean Classification using Machine Learning **Link:** [https://i2lzqk8wrgbecnzzv99laj.streamlit.app]
+# Bean Classification using Machine Learning [Link:](https://i2lzqk8wrgbecnzzv99laj.streamlit.app)
 
 This project focuses on building classification models to identify different types of beans based on their physical features. Multiple machine learning algorithms were tested and compared, including Logistic Regression, Random Forest, KNN, and SVC. After model evaluation, **Support Vector Classifier (SVC)** was found to be the best-performing model.
 
